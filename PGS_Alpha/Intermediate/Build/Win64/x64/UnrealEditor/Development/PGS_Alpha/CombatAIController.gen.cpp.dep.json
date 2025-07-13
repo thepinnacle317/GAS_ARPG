@@ -1,0 +1,28 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\gas_arpg\\pgs_alpha\\intermediate\\build\\win64\\unrealeditor\\inc\\pgs_alpha\\uht\\combataicontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\gas_arpg\\pgs_alpha\\intermediate\\build\\win64\\x64\\pgs_alphaeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\gas_arpg\\pgs_alpha\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pgs_alpha\\definitions.pgs_alpha.h",
+            "e:\\gas_arpg\\pgs_alpha\\source\\pgs_alpha\\variant_combat\\ai\\combataicontroller.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\aicontroller.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\aitypes.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\navigationsystem\\public\\navigationsystemtypes.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\ai\\navigation\\navagentselector.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\navagentselector.generated.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aitypes.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\perception\\aiperceptionlistenerinterface.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aiperceptionlistenerinterface.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\genericteamagentinterface.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\genericteamagentinterface.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\public\\visuallogger\\visualloggerdebugsnapshotinterface.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\visualloggerdebugsnapshotinterface.generated.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aicontroller.generated.h",
+            "e:\\gas_arpg\\pgs_alpha\\intermediate\\build\\win64\\unrealeditor\\inc\\pgs_alpha\\uht\\combataicontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

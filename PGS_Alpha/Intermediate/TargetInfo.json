@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PGS_Alpha",
+			"Path": "..\\Source\\PGS_Alpha.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PGS_AlphaEditor",
+			"Path": "..\\Source\\PGS_AlphaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

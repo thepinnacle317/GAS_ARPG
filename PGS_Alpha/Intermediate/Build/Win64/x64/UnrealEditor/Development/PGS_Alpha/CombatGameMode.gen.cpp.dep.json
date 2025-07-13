@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\gas_arpg\\pgs_alpha\\intermediate\\build\\win64\\unrealeditor\\inc\\pgs_alpha\\uht\\combatgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\gas_arpg\\pgs_alpha\\intermediate\\build\\win64\\x64\\pgs_alphaeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\gas_arpg\\pgs_alpha\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pgs_alpha\\definitions.pgs_alpha.h",
+            "e:\\gas_arpg\\pgs_alpha\\source\\pgs_alpha\\variant_combat\\combatgamemode.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "e:\\gas_arpg\\pgs_alpha\\intermediate\\build\\win64\\unrealeditor\\inc\\pgs_alpha\\uht\\combatgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

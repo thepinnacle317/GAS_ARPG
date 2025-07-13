@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\gas_arpg\\pgs_alpha\\intermediate\\build\\win64\\unrealeditor\\inc\\pgs_alpha\\uht\\sidescrollingcameramanager.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\gas_arpg\\pgs_alpha\\intermediate\\build\\win64\\x64\\pgs_alphaeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\gas_arpg\\pgs_alpha\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pgs_alpha\\definitions.pgs_alpha.h",
+            "e:\\gas_arpg\\pgs_alpha\\source\\pgs_alpha\\variant_sidescrolling\\sidescrollingcameramanager.h",
+            "e:\\gas_arpg\\pgs_alpha\\intermediate\\build\\win64\\unrealeditor\\inc\\pgs_alpha\\uht\\sidescrollingcameramanager.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

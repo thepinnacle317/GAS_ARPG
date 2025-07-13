@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\GAS_ARPG\\PGS_Alpha\\Source\\PGS_Alpha\\PGS_Alpha.Build.cs",
+		"E:\\GAS_ARPG\\PGS_Alpha\\Source\\PGS_Alpha.Target.cs",
+		"E:\\GAS_ARPG\\PGS_Alpha\\Source\\PGS_AlphaEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.0"
+}
